@@ -1,6 +1,6 @@
 #Loopback Bug Where Has Many Through
 
-Just a quick project to display how to reproduce a bug in Loopback
+Just a quick project to display how to reproduce a [bug](https://github.com/strongloop/loopback/issues/1737) in Loopback
 
 ##How to reproduce
 ```
