@@ -6,4 +6,9 @@ Just a quick project to display how to reproduce a [bug](https://github.com/stro
 ```
 GET /api/Customers/1/Items?filter[where][name]=a
 ```
+
+Or 
+```
+npm test
+```
 The server will hang and timeout eventually
